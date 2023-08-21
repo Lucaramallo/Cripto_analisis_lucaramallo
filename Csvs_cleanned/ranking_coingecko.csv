@@ -1,6 +1,6 @@
 crip_id,asset_platform_id,block_time_in_minutes,watchlist_portfolio_users,coingecko_rank,coingecko_score,developer_score,community_score,liquidity_score,public_interest_score,last_updated,sentiment_votes_up_percentage,sentiment_votes_down_percentage,market_cap_rank
-binance-coin-wormhole,ethereum,0,910,3820,5.977,0.0,9.446,19.493,0.003,2023-08-21t11:21:21.955z,,,
-apecoin,ethereum,0,92266,310,32.451,0.0,10.909,70.167,0.009,2023-08-21t11:21:24.392z,48.0,52.0,67.0
-binancecoin,,0,642480,5,65.446,73.082,61.771,73.073,11.364,2023-08-21t11:21:21.610z,46.67,53.33,4.0
-binance-peg-cardano,binance-smart-chain,0,1115,3466,7.891,0.0,11.591,26.698,0.023,2023-08-21t11:21:21.277z,,,
-apemove,binance-smart-chain,0,14167,2797,11.61,0.0,9.27,1.0,0.006,2023-08-21t11:21:04.638z,,,3500.0
+binance-peg-cardano,binance-smart-chain,0,1115,3466,7.891,0.0,11.591,26.698,0.023,2023-08-21t11:44:37.308z,,,
+binance-coin-wormhole,ethereum,0,910,3820,5.977,0.0,9.446,19.493,0.003,2023-08-21t11:43:27.060z,,,
+apecoin,ethereum,0,92265,310,32.451,0.0,10.909,70.167,0.009,2023-08-21t11:45:20.160z,47.06,52.94,67.0
+apemove,binance-smart-chain,0,14167,2797,11.61,0.0,9.27,1.0,0.006,2023-08-21t11:42:47.856z,,,3500.0
+binancecoin,,0,642486,5,65.446,73.082,61.771,73.073,11.364,2023-08-21t11:45:16.308z,45.31,54.69,4.0
