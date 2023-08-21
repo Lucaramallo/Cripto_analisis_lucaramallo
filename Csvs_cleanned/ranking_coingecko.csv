@@ -1,6 +1,6 @@
-crip_id,asset_platform_id,block_time_in_minutes,watchlist_portfolio_users,coingecko_rank,coingecko_score,developer_score,community_score,liquidity_score,public_interest_score,last_updated,sentiment_votes_up_percentage,sentiment_votes_down_percentage,market_cap_rank
-binance-peg-cardano,binance-smart-chain,0,1115,3466,7.891,0.0,11.591,26.698,0.023,2023-08-21t11:44:37.308z,,,
-binance-coin-wormhole,ethereum,0,910,3820,5.977,0.0,9.446,19.493,0.003,2023-08-21t11:43:27.060z,,,
-apecoin,ethereum,0,92265,310,32.451,0.0,10.909,70.167,0.009,2023-08-21t11:45:20.160z,47.06,52.94,67.0
-apemove,binance-smart-chain,0,14167,2797,11.61,0.0,9.27,1.0,0.006,2023-08-21t11:42:47.856z,,,3500.0
-binancecoin,,0,642486,5,65.446,73.082,61.771,73.073,11.364,2023-08-21t11:45:16.308z,45.31,54.69,4.0
+crip_id,asset_platform_id,block_time_in_minutes,watchlist_portfolio_users,coingecko_rank,coingecko_score,developer_score,community_score,liquidity_score,public_interest_score,last_updated,sentiment_votes_up_percentage,sentiment_votes_down_percentage,market_cap_rank,public_notice
+wrapped-solana,solana,0,289,968.0,21.65,0.0,50.719,52.431,0.104,2023-08-21 12:50:31.689000+00:00,,,,
+bluzelle,ethereum,0,18409,181.0,38.434,61.154,9.601,40.781,0.002,2023-08-21 12:50:48.090000+00:00,73.53,26.47,352.0,
+heco-peg-xrp,huobi-token,0,116,6576.0,0.201,0.0,0.0,1.0,0.022,2023-08-21 12:50:02.935000+00:00,,,,
+binance-peg-dogecoin,binance-smart-chain,0,955,1211.0,19.673,0.0,70.111,21.239,0.01,2023-08-21 12:50:56.286000+00:00,,,,
+cardano,,0,724589,7.0,62.536,70.27,58.753,72.124,0.023,2023-08-21 12:50:52.751000+00:00,87.13,12.87,8.0,

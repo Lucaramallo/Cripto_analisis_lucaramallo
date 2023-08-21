@@ -1,6 +1,42 @@
 crip_id,symbol,name
 apecoin,ape,apecoin
 apemove,ape,apemove
+arbitrum,arb,arbitrum
+arb-protocol,arb,arb protocol
 binancecoin,bnb,bnb
 binance-coin-wormhole,bnb,binance coin (wormhole)
 binance-peg-cardano,ada,binance-peg cardano
+binance-peg-dogecoin,doge,binance-peg dogecoin
+binance-peg-xrp,xrp,binance-peg xrp
+bitcoin,btc,bitcoin
+bluzelle,blz,bluzelle
+bridged-tether-linea,usdt,bridged tether (linea)
+bridged-tether-stargate,usdt,bridged tether (stargate)
+bridged-usd-coin-linea,usdc,bridged usd coin (linea)
+cardano,ada,cardano
+dogecoin,doge,dogecoin
+doge-on-pulsechain,doge,doge on pulsechain
+ethereum,eth,ethereum
+ethereum-wormhole,eth,ethereum (wormhole)
+force-bridge-usdc,usdc,bridged usd coin (force bridge)
+harrypotterobamapacman8inu,xrp,harrypotterobamapacman8inu
+harrypotterobamasonic10in,bitcoin,harrypotterobamasonic10inu (eth)
+harrypotterobamasonic10inu,bitcoin,harrypotterobamasonic10inu
+heco-peg-bnb,bnb,heco-peg binance coin
+heco-peg-xrp,xrp,heco-peg xrp
+oec-binance-coin,bnb,oec binance coin
+optimism,op,optimism
+ripple,xrp,xrp
+sei-network,sei,sei
+solana,sol,solana
+sol-wormhole,sol,sol (wormhole)
+staked-ether,steth,lido staked ether
+tether,usdt,tether
+tether-pulsechain,usdt,bridged tether (pulsechain)
+usd-coin,usdc,usd coin
+usd-coin-avalanche-bridged-usdc-e,usdc,bridged usd coin (avalanche)
+usd-coin-pulsechain,usdc,bridged usd coin (pulsechain)
+warioxrpdumbledoreyugioh69inu,xrp,warioxrpdumbledoreyugioh69inu
+wlitidao,wld,wlitidao
+worldcoin-wld,wld,worldcoin
+wrapped-solana,sol,wrapped solana
