@@ -1,8 +1,7 @@
 crip_id,symbol,name
-apecoin,ape,apecoin
-apemove,ape,apemove
 arbitrum,arb,arbitrum
 arb-protocol,arb,arb protocol
+astar,astr,astar
 binancecoin,bnb,bnb
 binance-coin-wormhole,bnb,binance coin (wormhole)
 binance-peg-cardano,ada,binance-peg cardano
@@ -19,20 +18,21 @@ doge-on-pulsechain,doge,doge on pulsechain
 ethereum,eth,ethereum
 ethereum-wormhole,eth,ethereum (wormhole)
 force-bridge-usdc,usdc,bridged usd coin (force bridge)
-fsn,fsn,fusion
 harrypotterobamapacman8inu,xrp,harrypotterobamapacman8inu
 heco-peg-bnb,bnb,heco-peg binance coin
 heco-peg-xrp,xrp,heco-peg xrp
 oec-binance-coin,bnb,oec binance coin
-opulous,opul,opulous
+pendle,pendle,pendle
 ripple,xrp,xrp
+salmonation,sui,salmonation
 sei-network,sei,sei
 solana,sol,solana
 sol-wormhole,sol,sol (wormhole)
 staked-ether,steth,lido staked ether
+sui,sui,sui
+sui-iou,sui,sui (iou)
 tether,usdt,tether
 tether-pulsechain,usdt,bridged tether (pulsechain)
-unibot,unibot,unibot
 usd-coin,usdc,usd coin
 usd-coin-avalanche-bridged-usdc-e,usdc,bridged usd coin (avalanche)
 usd-coin-pulsechain,usdc,bridged usd coin (pulsechain)
