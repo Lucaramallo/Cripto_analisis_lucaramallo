@@ -23,18 +23,22 @@ force-bridge-usdc,usdc,bridged usd coin (force bridge)
 harrypotterobamapacman8inu,xrp,harrypotterobamapacman8inu
 heco-peg-bnb,bnb,heco-peg binance coin
 heco-peg-xrp,xrp,heco-peg xrp
+komodo,kmd,komodo
 oec-binance-coin,bnb,oec binance coin
+pepe,pepe,pepe
+pepebrc,pepe,pepe (ordinals)
+pepe-coin-bsc-c45e8b31-8ae1-43f4-bd34-e75551d97285,pepe,pepecoin (bsc)
+pepe-on-pulsechain,pepe,pepe on pulsechain
+pepepad,pepe,pepepad
+pepesol,pepe,pepesol
 ripple,xrp,xrp
-salmonation,sui,salmonation
 sei-network,sei,sei
 solana,sol,solana
 sol-wormhole,sol,sol (wormhole)
 staked-ether,steth,lido staked ether
-sui,sui,sui
-sui-iou,sui,sui (iou)
 tether,usdt,tether
 tether-pulsechain,usdt,bridged tether (pulsechain)
-tezos,xtz,tezos
+tezos-pepe,pepe,tezos pepe
 usd-coin,usdc,usd coin
 usd-coin-avalanche-bridged-usdc-e,usdc,bridged usd coin (avalanche)
 usd-coin-pulsechain,usdc,bridged usd coin (pulsechain)
