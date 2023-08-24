@@ -1,6 +1,6 @@
 crip_id,symbol,name
-arbitrum,arb,arbitrum
-arb-protocol,arb,arb protocol
+apecoin,ape,apecoin
+apemove,ape,apemove
 astar,astr,astar
 binancecoin,bnb,bnb
 binance-coin-wormhole,bnb,binance coin (wormhole)
@@ -21,8 +21,8 @@ force-bridge-usdc,usdc,bridged usd coin (force bridge)
 harrypotterobamapacman8inu,xrp,harrypotterobamapacman8inu
 heco-peg-bnb,bnb,heco-peg binance coin
 heco-peg-xrp,xrp,heco-peg xrp
+lcx,lcx,lcx
 oec-binance-coin,bnb,oec binance coin
-pendle,pendle,pendle
 ripple,xrp,xrp
 salmonation,sui,salmonation
 sei-network,sei,sei
@@ -33,6 +33,8 @@ sui,sui,sui
 sui-iou,sui,sui (iou)
 tether,usdt,tether
 tether-pulsechain,usdt,bridged tether (pulsechain)
+trust-wallet-token,twt,trust wallet
+twitfi,twt,twitfi
 usd-coin,usdc,usd coin
 usd-coin-avalanche-bridged-usdc-e,usdc,bridged usd coin (avalanche)
 usd-coin-pulsechain,usdc,bridged usd coin (pulsechain)
