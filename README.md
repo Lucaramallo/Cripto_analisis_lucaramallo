@@ -26,6 +26,12 @@ Se Proporciona Dashboard en Power Bi para la ayuda en la toma de decisiones, des
 
 Se identifican oportunidades, tambien con tablero Dashboard para la consulta. Oportunidad del Halving 2024...
 
-### 4. [Recomendaciones y Conclusiones]
+### 4. [KPIs y Recomendaciones]
 
-Disponibles en El Archivo de presentacion de analisis Power Bi
+KPI 1 - Invertir a Largo Plazo en un 65 % del total disponible para inversión, en las dos principales Criptomonedas: BTC (Bitcoin) 70% y ETH(Ethereum) el 30% restante de ese 65 Hasta antes del halving del 2024 10% de ese 65 mencionado debe estar dispuesto en la 3ra coin con mayor Market Cap registrado al momento de invertir como opcional y diversificacion de riesgos.
+
+KPI 2 - Invertir a Corto Plazo en un 35 % del total disponible para inversión en las 3 principales Criptomonedas que cumplan con almenos 4/3 indicadores a Corto plazo designados en el Dashboard, es decir, figuren en el Dasboard sin filtros customizados por el usuario, para antes del Halving 2024.
+
+Se debe manejar amplia información sobre la criptomoneda a las cuales se decida invertir , la solucion que viene a brindar, fundamentalmente si la misma posee proyección en el tiempo (por ejemplo bitrock, es interesante, al proponer un sistema transaccional con menor consumo y mas veloz) , a modo de invertir sabiamente y no caer en falsas especulaciones, ni tampoco invertir en criptomonedas que no tengan verdadero valor, sin desmerecer ninguna, claramente en algun momento cualquiera pudo haber sido una alta oportunidad.
+
+KPI 3 - Ampliar infraestructura del MVP hoy aqui presentado en un 40% para Diciembre 2023 y alcanzando otro 40% sobre ese, hasta antes del Halving 2024, con el objetivo de acompañar el crecimiento y desarrollo de la empresa en el mercado de las criptomonedas, es de gran importancia mantenerse a la vanguardia de la información en estos temas.
