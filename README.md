@@ -14,7 +14,7 @@ La Empresa de Servicios Financieros ha demostrado un interés en el mercado de c
 
 Este repositorio contiene una serie de documentos, análisis y recursos que detallan el proceso de investigación y análisis llevado a cabo para comprender y evaluar el mercado de criptomonedas. A continuación, se describe el contenido principal:
 
-### 1. [Análisis Inicial]
+### 1. [Análisis Inicial, ETL & EDA]
 
 En esta sección se encuentra el análisis inicial del mercado de criptomonedas. Se exploran las principales criptomonedas en base a % del total Marketcap de la currency, posicionamiento en trendingo, ranking coingecko, etc.
 
