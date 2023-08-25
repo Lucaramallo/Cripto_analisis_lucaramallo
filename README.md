@@ -1,6 +1,6 @@
 # Análisis de Criptomonedas y Estrategias de Inversión
 
-![Banner](https://github.com/Lucaramallo/Cripto_analisis_lucaramallo/raw/main/banner_cripto.jpg)
+![Banner](https://www.bbva.com/wp-content/uploads/2022/03/BBVA-2022-Criptomoneda-1024x629.jpg)
 
 ## Introducción
 
