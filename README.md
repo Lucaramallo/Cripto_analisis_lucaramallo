@@ -4,7 +4,7 @@
 
 ## Introducción
 
-Este repositorio documenta el trabajo realizado por **[Tu Nombre]** en el campo del análisis de criptomonedas y la formulación de estrategias de inversión. El trabajo fue realizado en Córdoba, Argentina, con el objetivo de proporcionar a una Empresa de Servicios Financieros en la misma localidad una visión integral de las oportunidades de inversión en el mercado de criptomonedas. La fecha de este informe es el 25 de agosto de 2023.
+Este repositorio documenta el trabajo realizado por **Luca Ramallo** en el campo del análisis de criptomonedas y la formulación de estrategias de inversión. El trabajo fue realizado en Córdoba, Argentina, con el objetivo de proporcionar a una Empresa de Servicios Financieros en la misma localidad una visión integral de las oportunidades de inversión en el mercado de criptomonedas. La fecha de este informe es el 25 de agosto de 2023.
 
 ## Contexto
 
