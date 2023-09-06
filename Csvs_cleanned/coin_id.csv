@@ -1,16 +1,14 @@
 crip_id,symbol,name
-akash-network,akt,akash network
+apecoin,ape,apecoin
+apemove,ape,apemove
+bella-protocol,bel,bella protocol
 binancecoin,bnb,bnb
 binance-coin-wormhole,bnb,binance coin (wormhole)
 binance-peg-cardano,ada,binance-peg cardano
 binance-peg-dogecoin,doge,binance-peg dogecoin
 binance-peg-xrp,xrp,binance-peg xrp
 bitcoin,btc,bitcoin
-bitrock,brock,bitrock
-bone-2,bone,bone
-bone-shibaswap,bone,bone shibaswap
-boneswap,bone,boneswap
-bone-token,bone,polypup bone
+bonk,bonk,bonk
 bridged-tether-linea,usdt,bridged tether (linea)
 bridged-tether-stargate,usdt,bridged tether (stargate)
 bridged-usd-coin-linea,usdc,bridged usd coin (linea)
@@ -20,29 +18,25 @@ doge-on-pulsechain,doge,doge on pulsechain
 ethereum,eth,ethereum
 ethereum-wormhole,eth,ethereum (wormhole)
 force-bridge-usdc,usdc,bridged usd coin (force bridge)
+gala,gala,gala
 harrypotterobamapacman8inu,xrp,harrypotterobamapacman8inu
 heco-peg-bnb,bnb,heco-peg binance coin
 heco-peg-xrp,xrp,heco-peg xrp
-komodo,kmd,komodo
+matic-network,matic,polygon
 oec-binance-coin,bnb,oec binance coin
-pepe,pepe,pepe
-pepebrc,pepe,pepe (ordinals)
-pepe-coin-bsc-c45e8b31-8ae1-43f4-bd34-e75551d97285,pepe,pepecoin (bsc)
-pepe-on-pulsechain,pepe,pepe on pulsechain
-pepepad,pepe,pepepad
-pepesol,pepe,pepesol
 ripple,xrp,xrp
-sei-network,sei,sei
+san-diego-coin,sand,san diego coin
 solana,sol,solana
 sol-wormhole,sol,sol (wormhole)
 staked-ether,steth,lido staked ether
+tamadoge,tama,tamadoge
+tama-finance,tama,tama finance
 tether,usdt,tether
 tether-pulsechain,usdt,bridged tether (pulsechain)
-tezos-pepe,pepe,tezos pepe
+the-sandbox,sand,the sandbox
+the-sandbox-wormhole,sand,the sandbox (wormhole)
 usd-coin,usdc,usd coin
 usd-coin-avalanche-bridged-usdc-e,usdc,bridged usd coin (avalanche)
 usd-coin-pulsechain,usdc,bridged usd coin (pulsechain)
 warioxrpdumbledoreyugioh69inu,xrp,warioxrpdumbledoreyugioh69inu
-wlitidao,wld,wlitidao
-worldcoin-wld,wld,worldcoin
 wrapped-solana,sol,wrapped solana
